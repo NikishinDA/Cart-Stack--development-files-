@@ -1,5 +1,5 @@
 # Cart-Stack--development-files-
-№№ development files only
+## development files only
 
 Проект, над которым я работал в [Black Games](https://github.com/blackgames-space) (https://blackgames.space/).
 
